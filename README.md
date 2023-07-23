@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://github.com/K3rnel-Dev/Botix/blob/main/screens/botix.png" width='700px' height='400px' alt="Botix Screen">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Simple+Shell;For+Windows;X64+X86" alt="A brief description">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Bot+Dumper" alt="A brief description">
 <hr>
 <h1>About this script</h1>
 <strong>This script allows all the messages that sent the bot to other users in telegram, most often the bot telegrams are used to send stolen data from computers, but for analyzers, this script will help to get all the stolen data from that bot and also allow you to calculate the bot owner &apos; s account</strong>
