@@ -3,7 +3,7 @@
 ![Modife-Dev-Name](https://img.shields.io/badge/Developer-K3rnel-red)
 [![Language](https://img.shields.io/badge/Language-Python-e4181c.svg?labelColor=000000)](https://github.com/K3rnel-dev/Botix/)
 <div align="center">
-<img src="https://github.com/K3rnel-Dev/Botix/blob/main/screens/botix.png" width='700px' height='700px' alt="Botix Screen">
+<img src="https://github.com/K3rnel-Dev/Botix/blob/main/screens/botix.png" width='700px' height='400px' alt="Botix Screen">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Simple+Shell;For+Windows;X64+X86" alt="A brief description">
 <hr>
